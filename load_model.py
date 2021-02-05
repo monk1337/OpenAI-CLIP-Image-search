@@ -5,6 +5,8 @@ import json
 import numpy as np
 from urllib.request import urlopen
 
+#code credit : https://github.com/haltakov/natural-language-image-search
+
 # Load the open CLIP model
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model, preprocess = clip.load("ViT-B/32", device=device)
