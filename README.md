@@ -21,6 +21,8 @@ Change the path of photo_ids, photo_features in load_model.py
 Run python3 clip_api.py
 A server will start at http://0.0.0.0:5002/
 
+Check the server status by opening http://0.0.0.0:5002/checking url
+
 ### Step 3
 Query using http://0.0.0.0:5002/get_url by passing three args 
 
