@@ -3,7 +3,8 @@ OpenAI's CLIP neural network
 
 ### Step 1
 Install all the dependencies from dependencies.txt
-Get a key from wiplash https://unsplash.com/oauth/applications
+
+Get a key from unsplash https://unsplash.com/oauth/applications
 
 Download photo_ids and features
 
